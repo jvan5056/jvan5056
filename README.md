@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jvan5056
 - 👀 I’m interested in programming, data analysis, and web development.
-- 🌱 I’m currently learning C and Python.
+- 🌱 I’m currently learning React, Javascript, and Python.
 - 💞️ I’m looking to collaborate on...not sure yet.
 - 📫 How to reach me...
 
